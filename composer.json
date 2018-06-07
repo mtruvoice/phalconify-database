@@ -1,10 +1,10 @@
 {
-    "name": "armonb/phalconify-database",
+    "name": "mtruvoice/phalconify-database",
     "description": "A PhalconPHP wrapper for easy database connections.",
     "authors": [
         {
-            "name": "Armon Bigham",
-            "email": "me@armonbigham.com"
+            "name": "Michael Toriola",
+            "email": "toriola@cryptogo.com"
         }
     ],
     "autoload": {
