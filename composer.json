@@ -1,0 +1,15 @@
+{
+    "name": "armonb/phalconify-database",
+    "description": "A PhalconPHP wrapper for easy database connections.",
+    "authors": [
+        {
+            "name": "Armon Bigham",
+            "email": "me@armonbigham.com"
+        }
+    ],
+    "autoload": {
+        "psr-4" : {
+            "Phalconify\\Database\\" : "src/"
+        }
+    }
+}
